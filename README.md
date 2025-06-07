@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+reality.;Building+a+secure+future." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+reality.;Building+a+secure+future+in+Cyber." alt="Typing SVG" />
 </p>
 
 <h2 align="center">🌐 Languages & Technologies I Use</h2>
