@@ -10,13 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+reality;Building+a+secure+future+in+cybersecurity." alt="Typing SVG" />
-</p>
-
-<!-- GitHub Stats and Streak -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prince-codes&show_icons=true&theme=radical" alt="Prince's github stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince-codes&theme=radical" alt="GitHub streak" height="165"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+reality.+Building+a+secure+future+in+cybersecurity." alt="Typing SVG" />
 </p>
 
 <p align="center">
