@@ -1,11 +1,16 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Prince</h1>
 <h3 align="center">Aspiring Cyber Security Professional & Passionate Developer</h3>
+
 <p align="center">
-  <b>I belong to the world of cyber security and am dedicated to becoming a top cyber security professional.</b>
+  <b>
+    I am dedicated to mastering the art and science of cyber security.<br>
+    My mission is to contribute to a safer digital world through continuous learning, innovation, and professional excellence.
+  </b>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Coding+my+dreams+into+cybersecurity;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Building+a+secure+future+in+cybersecurity." alt="Typing SVG" />
 </p>
 
 <p align="center">
