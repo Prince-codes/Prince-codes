@@ -104,5 +104,5 @@
 
 <!-- Visitor Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Prince-codes/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Prince-codes" alt="Profile views" />
 </p>
